@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for cue.
-GH_REPO="https://github.com/cue-lang/cue.git"
+GH_REPO="https://github.com/cue-lang/cue"
 TOOL_NAME="cue"
 TOOL_TEST="cue version"
 
